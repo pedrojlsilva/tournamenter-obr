@@ -52,8 +52,12 @@ module.exports = {
           path: '/ManualOBRTournamenter.pdf',
           name: 'Manual (.pdf)',
         },
+        {
+          path: '/obr-arena',
+          name: 'ARena - Desenhar Arenas',
+        },
       ],
-      order: 6
+      order: 7
     },
     // Realtime badge for Sincronization with Sistema Olimpo
     SyncModule.statusMenu
